@@ -1,0 +1,38 @@
+body {
+   height: 842px;
+   width: 545px;
+   margin-left: auto;
+   margin-right: auto;
+}
+/*div.a{
+position: fixed;
+top: 50px;
+}*/
+h2.r1{
+  border: 2px;
+  border-radius: 12px;
+  background-color: black;
+  color: white;
+  margin-right: 350px;
+}
+h2.r2{
+  border: 2px;
+  border-radius: 12px;
+  background-color: black;
+  color: white;
+  margin-right: 420px;
+}
+h2.r3{
+  border: 2px;
+  border-radius: 12px;
+  background-color: black;
+  color: white;
+  margin-right: 350px;
+}
+h2.r4{
+  border: 2px;
+  border-radius: 12px;
+  background-color: black;
+  color: white;
+  margin-right: 380px;
+}
